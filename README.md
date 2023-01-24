@@ -9,5 +9,5 @@ This is a personal project and NOT affiliated to Sget.org in any way. The design
 ![OSM Size 0](Photos/OSM0.png?raw=true "OSM SIze 0")
 ![OSM Size S](Photos/OSMS.png?raw=true "OSM SIze S")
 ![OSM Size M](Photos/OSMM.png?raw=true "OSM SIze M")
-![OSM Size L](Photos/OSM0.png?raw=true "OSM SIze L")
+![OSM Size L](Photos/OSML.png?raw=true "OSM SIze L")
 
